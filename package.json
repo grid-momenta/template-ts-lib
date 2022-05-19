@@ -48,6 +48,7 @@
 	"devDependencies": {
 		"@rushstack/eslint-config": "^2.6.0",
 		"@size-limit/preset-small-lib": "^7.0.8",
+		"@types/lodash": "^4.14.182",
 		"commitizen": "^4.2.4",
 		"cz-conventional-changelog": "^3.3.0",
 		"eslint": "^8.15.0",
@@ -61,5 +62,9 @@
 		"commitizen": {
 			"path": "./node_modules/cz-conventional-changelog"
 		}
+	},
+	"dependencies": {
+		"lodash": "^4.17.21",
+		"lodash-es": "^4.17.21"
 	}
 }
