@@ -9,6 +9,13 @@
   "engines": {
     "node": ">=14"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grid-momenta/template-ts-lib.git"
+  },
   "scripts": {
     "start": "tsdx watch",
     "build": "tsdx build",
