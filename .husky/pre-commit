@@ -1,4 +1,3 @@
 #!/usr/bin/env sh
 
 yarn test
-yarn prettier:fix
