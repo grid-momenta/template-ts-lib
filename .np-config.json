@@ -3,6 +3,6 @@
   "contents": "dist",
   "yarn": false,
   "message": "chore: :bookmark: Publish v%s tag",
-  "publish": "false",
+  "publish": false,
   "tests": false
 }
